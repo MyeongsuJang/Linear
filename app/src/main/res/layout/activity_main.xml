@@ -20,12 +20,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="아이디"/>
+        android:text="아이디"
+        android:textSize="30dp"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is Jay"/>
+        android:text="This is Jay"
+        android:textSize="14dp"/>
 
 
 
